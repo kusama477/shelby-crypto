@@ -1,0 +1,9 @@
+{
+  "name": "shelby-crypto-dashboard",
+  "version": "1.0.0",
+  "description": "Crypto analytics dashboard",
+  "main": "src/App.jsx",
+  "scripts": {
+    "start": "vite"
+  }
+}
